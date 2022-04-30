@@ -50,6 +50,6 @@ My instagram : saif.aljilani
 
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sipher69&layout=compact&langs_count=8)](https://github.com/sipher69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sipher69&layout=compact)](https://github.com/sipher69/github-readme-stats)
 
 
