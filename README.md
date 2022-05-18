@@ -43,7 +43,7 @@ My instagram : saif.aljilani
   <br>
   <br>
    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-  
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   
 
 </div>
