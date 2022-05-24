@@ -23,8 +23,10 @@
 - 📫 How to reach me ...
 My instagram : saif.aljilani
 
-- My Codepen Account : https://codepen.io/sipher69
--  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sipher69.visitor-badge)
+- My Codepen Account : https://codepen.io/sipher69;
+ 
+ 
+ 
 
 <hr>
 
@@ -61,7 +63,7 @@ My instagram : saif.aljilani
 
 
  
- 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sipher69.visitor-badge)
 
 
 
