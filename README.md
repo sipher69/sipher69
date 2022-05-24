@@ -23,7 +23,7 @@
 - 📫 How to reach me ...
 My instagram : saif.aljilani
 
--My Codepen Account : https://codepen.io/sipher69
+- My Codepen Account : https://codepen.io/sipher69
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
