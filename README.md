@@ -24,6 +24,8 @@
 My instagram : saif.aljilani
 
 - My Codepen Account : https://codepen.io/sipher69
+-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sipher69.visitor-badge)
+
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
