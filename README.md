@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m Saif Al-Jilani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on {web stuff {Web development,
                                                                              Building real-life projects,  
                                                                              APIs, 
