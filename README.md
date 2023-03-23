@@ -38,12 +38,17 @@ My instagram : saif.aljilani
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" title="Next Js" alt="Next Js" width="40" height="40"/>
+   <br>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <br>
   <br>
-  <img  src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netilfy" style="border-width: 1px;" width="40" height="40">&nbsp;
+  <img  src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netilfy" style="border-width: 1px;" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
+   
+   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" alt="Git" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <br>
   <br>
