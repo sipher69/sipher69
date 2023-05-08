@@ -55,8 +55,7 @@ My instagram : saif.aljilani
   <br>
   <br>
    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  
+   
 
 </div>
 
@@ -69,8 +68,8 @@ My instagram : saif.aljilani
 
 
 
- 
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sipher69.visitor-badge)
-
-
+ <img src="https://www.codewars.com/users/sipher69/badges/large"  title="Figma" alt="Code" />&nbsp;
+ <br/>
+ <br/>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=sipher69.visitor-badge" alt="visitor badge"/>
 
