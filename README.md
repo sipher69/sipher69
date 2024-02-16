@@ -54,8 +54,7 @@ My instagram : saif.aljilani
      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <br>
   <br>
-   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-   
+    
 
 </div>
 
