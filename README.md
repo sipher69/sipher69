@@ -67,7 +67,7 @@ My instagram : saif.aljilani
 
 
 
- <img src="https://www.codewars.com/users/sipher69/badges/large"  title="Figma" alt="Code" />&nbsp;
+ 
  <br/>
  <br/>
  
